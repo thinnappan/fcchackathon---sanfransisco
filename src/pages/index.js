@@ -5,10 +5,10 @@ const IndexPage = () => (
   <div>
     <h1>Hi I am dinesh</h1>
     <p>I am studying in KG college of arts and science.</p>
-    <p>Love to code</p>
-	<a href='http://www.dineshmax.ga' target='_blank'>Portfolio</a>
+    <p>I Love coding</p>
+	<p> This is my personal <a href='http://www.dineshmax.ga' target='_blank'>Portfolio</a> </p>
 	<br></br>
-    <Link to="/page-2/">Page - 2</Link>
+    <b> <i> Thankyou !!! See you all in online... </i> </b>
   </div>
 )
 
